@@ -1,0 +1,127 @@
+body{
+    background-image: url(payment.jpg);
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+    cursor: default;
+   
+}
+nav {
+    background-color: #333333;  
+    
+    text-align: center;        
+    color: white;              
+    font-size: 20px;            
+    font-weight: bold; 
+    height: 30px; 
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 0%;
+}
+
+.footer{
+    background-color: #333333;
+    color:aliceblue;
+    position: fixed;
+    bottom: 0%;
+    width: 100%;
+    font-style: italic;
+    font-family:Arial, Helvetica, sans-serif;
+    height:20px;
+    left: 0%;
+}
+.pay{
+    
+    background-color: rgba(255, 255, 255, 0.9);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    padding: 25px;
+    width: 340px;
+    border-radius:15px;
+   
+    margin: 10px auto;
+   
+    display: flex;
+    flex-direction: column;
+    
+
+   
+}
+h2{
+    color: #161414;
+    text-decoration: wavy;
+    font-style: italic;
+    padding: 40px;
+    text-align: center;
+    font-family: 'Roboto';
+}
+
+.select{
+    padding-bottom: 5px;
+    font-size: large;
+    font-weight: bold;
+    font-family:'Roboto';
+    margin-left: 0px;
+    font-size: 150%;
+    color: #333
+}
+.upi{
+    padding: 10px;
+    margin-left: 120px;
+    font-weight:bold;
+    font-style: italic;
+
+}
+.card{
+    padding: 10px;
+    margin-left: 120px;
+    font-weight:bold;
+    font-style: italic;
+
+}
+.ib{
+    padding: 10px;
+    margin-left: 120px;
+    font-weight:bold;
+    font-style: italic;
+
+}
+.submit{
+    background-color:  #007BFF;
+    color: aliceblue;
+    border: #333333;
+    border-radius: 15px;
+    width: 140px;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 180px;
+    cursor:pointer;
+}
+
+.links{
+background-color: #ffffff;
+display: flex;
+padding: 15px;
+justify-content: space-between;
+width: 450px;
+font-weight: bolder;
+font-size: 15px;
+margin: auto;
+margin-top: 20px;
+opacity: 0.8;
+}
+
+.from{
+    font-family: 'Segoe UI', 'Roboto';
+    font-style: italic;
+    line-height: 1.4;
+}
+.to{
+    font-family: 'Segoe UI', 'Roboto';
+    font-style: italic;
+    line-height: 1.4;
+}
+.date{
+    font-family: 'Segoe UI', 'Roboto';
+    font-style: italic;
+    line-height: 1.4;
+}
