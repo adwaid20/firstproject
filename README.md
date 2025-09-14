@@ -9,12 +9,11 @@ A simple train ticket booking web app with:
 - Payment integration
 
 ## 🚀 Features
-- Responsive design
 - Easy-to-use interface
 - Secure checkout
 
 ## 🛠️ Tech Stack
-- HTML, CSS, JavaScript
+- HTML, CSS
 
 ## 📸 Screenshots
 ![Login Page](login.jpg)
